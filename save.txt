@@ -1,0 +1,116 @@
+<div id="con">
+                    <div id="info-container">
+                        <img src="img/pic1.png" alt=""/>
+                        <div id="info">
+                            <h4>About Zenith</h4>
+                            <p>Welcome to the Shanghai Zenith Crusher and Pulverizer internet site.Zenith is one of the biggest manufacturer in crushing and grinding industry in China.Our main product include Mobile Crusher,...</p>
+                            <p>Cone Crusher,Hammer Crusher,Vertical Shaft Impact Crusher,Ball Mill,Grinding Mill,Raymood Mill,MTM Medium Speed Trapezium Mill,Ultrafine Mill and other pertinent machines and equiments such as Vibrating Feeder,Vibrating Screen and sand washing machine.</p>
+                            <img src="img/gear.png" alt=""/><a href="#">More details</a>    
+                        </div>    
+                    </div>
+                    <div class="three-products">
+                        <img src="img/left-arrow.png" alt=""/>
+                        <div id="product">
+                            <img src="img/product1.png" alt=""/>
+                            <div class="text-info">
+                                <p>I produced jaw crusher set at home and abroad is the successful exper of similar products,with great concen</p>    
+                                <a href="#">&gt;&gt;More detials</a>
+                            </div>
+                        </div>
+                        <div id="product">
+                            <img src="img/product1.png" alt=""/>
+                            <div class="text-info">
+                                <p>I produced jaw crusher set at home and abroad is the successful exper of similar products,with great concen</p>    
+                                <a href="#">&gt;&gt;More detials</a>
+                            </div>
+                        </div>
+                        <div id="product">
+                            <img src="img/product1.png" alt=""/>
+                            <div class="text-info">
+                                <p>I produced jaw crusher set at home and abroad is the successful exper of similar products,with great concen</p>    
+                                <a href="#">&gt;&gt;More detials</a>
+                            </div>
+                        </div>
+                        <img src="img/right-arrow.png" alt=""/>
+                    </div>
+                    <div id="news">
+                        <h3>What's New</h3>
+                        <ul>
+                            <li><a href="#">Trituradora de impacto</a></li>
+                            <li><a href="#">Maquina de Alimentacion de Vibracion</a></li>
+                            <li><a href="#">Trituradora de impacto</a></li>
+                            <li><a href="#">Maquina de Alimentacion de Vibracion</a></li>
+                            <li><a href="#">Maquina de Alimentacion de Vibracion Trituradora de impacto</a></li>
+                            <li><a href="#">Trituradora de impacto</a></li>    
+                        </ul>
+                        <img src="img/gear.png" alt=""/>
+                        <a href="#">View Faucet</a>
+                    </div>
+                
+                    <div id="video">
+                        <p>PAYMENT INTEGRATION</p>
+                        <button type="button">&gt;&gt;</button>
+                        <video src="#" controls="controls">
+                            您的浏览器不支持 video 标签。
+                        </video>    
+                    </div>
+                
+                    <div id="products">
+                        <div class="single-product">
+                            <img src="img/product1.png" alt=""/>
+                            <h5>Faucet</h5>
+                            <p>Material:Brass H59-1 zink alloy polished,chrome plated Kitchen faucet devoted to</p>    
+                            <img src="img/gear.png" alt=""/>
+                            <a href="#">View Faucet</a>
+                        </div>
+                        <div class="single-product">
+                            <img src="img/product1.png" alt=""/>
+                            <h5>Faucet</h5>
+                            <p>Material:Brass H59-1 zink alloy polished,chrome plated Kitchen faucet devoted to</p>    
+                            <img src="img/gear.png" alt=""/>
+                            <a href="#">View Faucet</a>
+                        </div>
+                        <div class="single-product">
+                            <img src="img/product1.png" alt=""/>
+                            <h5>Faucet</h5>
+                            <p>Material:Brass H59-1 zink alloy polished,chrome plated Kitchen faucet devoted to</p>    
+                            <img src="img/gear.png" alt=""/>
+                            <a href="#">View Faucet</a>
+                        </div>
+                        <div class="single-product">
+                            <img src="img/product1.png" alt=""/>
+                            <h5>Faucet</h5>
+                            <p>Material:Brass H59-1 zink alloy polished,chrome plated Kitchen faucet devoted to</p>    
+                            <img src="img/gear.png" alt=""/>
+                            <a href="#">View Faucet</a>
+                        </div>
+                        <div class="single-product">
+                            <img src="img/product1.png" alt=""/>
+                            <h5>Faucet</h5>
+                            <p>Material:Brass H59-1 zink alloy polished,chrome plated Kitchen faucet devoted to</p>    
+                            <img src="img/gear.png" alt=""/>
+                            <a href="#">View Faucet</a>
+                        </div>
+                        <div class="single-product">
+                            <img src="img/product1.png" alt=""/>
+                            <h5>Faucet</h5>
+                            <p>Material:Brass H59-1 zink alloy polished,chrome plated Kitchen faucet devoted to</p>    
+                            <img src="img/gear.png" alt=""/>
+                            <a href="#">View Faucet</a>
+                        </div>
+                        <div class="single-product">
+                            <img src="img/product1.png" alt=""/>
+                            <h5>Faucet</h5>
+                            <p>Material:Brass H59-1 zink alloy polished,chrome plated Kitchen faucet devoted to</p>    
+                            <img src="img/gear.png" alt=""/>
+                            <a href="#">View Faucet</a>
+                        </div>
+                        <div class="single-product">
+                            <img src="img/product1.png" alt=""/>
+                            <h5>Faucet</h5>
+                            <p>Material:Brass H59-1 zink alloy polished,chrome plated Kitchen faucet devoted to</p>    
+                            <img src="img/gear.png" alt=""/>
+                            <a href="#">View Faucet</a>
+                        </div>
+                    </div>  
+                </div>
